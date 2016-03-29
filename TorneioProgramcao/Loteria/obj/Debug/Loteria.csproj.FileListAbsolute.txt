@@ -1,0 +1,5 @@
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Loteria\bin\Debug\Loteria.exe.config
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Loteria\bin\Debug\Loteria.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Loteria\bin\Debug\Loteria.pdb
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Loteria\obj\Debug\Loteria.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Loteria\obj\Debug\Loteria.pdb

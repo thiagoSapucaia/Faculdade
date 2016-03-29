@@ -1,0 +1,5 @@
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Fliper\bin\Debug\Fliper.exe.config
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Fliper\bin\Debug\Fliper.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Fliper\bin\Debug\Fliper.pdb
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Fliper\obj\Debug\Fliper.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\Fliper\obj\Debug\Fliper.pdb

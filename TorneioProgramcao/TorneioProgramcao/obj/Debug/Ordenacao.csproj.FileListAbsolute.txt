@@ -1,0 +1,6 @@
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\bin\Debug\TorneioProgramcao.exe.config
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\obj\Debug\TorneioProgramcao.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\obj\Debug\TorneioProgramcao.pdb
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\bin\Debug\TorneioProgramcao.exe
+c:\users\thiago sapucaia\documents\visual studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\bin\Debug\TorneioProgramcao.pdb
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\TorneioProgramcao\TorneioProgramcao\obj\Debug\Ordenacao.csprojResolveAssemblyReference.cache

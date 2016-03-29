@@ -1,0 +1,5 @@
+c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.GenerateResource.Cache
