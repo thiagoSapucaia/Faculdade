@@ -13,5 +13,10 @@ namespace SocketServidor {
         public Form1() {
             InitializeComponent();
         }
+
+        private void btnIniciar_Click(object sender, EventArgs e) {
+            ServerSocket.IniciarServidor();
+            this.txtDados.Text = ServerSocket.mensagemServidor;
+        }
     }
 }

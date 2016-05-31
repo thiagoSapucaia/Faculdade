@@ -35,6 +35,7 @@
             this.btnIniciar.TabIndex = 0;
             this.btnIniciar.Text = "Iniciar Servidor para Atendimento";
             this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.Click += new System.EventHandler(this.btnIniciar_Click);
             // 
             // txtDados
             // 

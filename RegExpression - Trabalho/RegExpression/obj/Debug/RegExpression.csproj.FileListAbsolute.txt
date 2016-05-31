@@ -1,0 +1,40 @@
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\csc.exe
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\vbc.exe
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\RegExpression.dll.config
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\RegExpression.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\RegExpression.pdb
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\obj\Debug\RegExpression.dll
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\obj\Debug\RegExpression.pdb
+C:\Users\Thiago Sapucaia\Documents\Visual Studio 2015\Projects\RegExpression\RegExpression\obj\Debug\RegExpression.csprojResolveAssemblyReference.cache
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\csc.exe
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\System.Collections.Immutable.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\vbc.exe
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\VBCSCompiler.exe
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\roslyn\VBCSCompiler.exe.config
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\RegExpression.dll.config
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\RegExpression.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\RegExpression.pdb
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\obj\Debug\RegExpression.csprojResolveAssemblyReference.cache
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\obj\Debug\RegExpression.dll
+Z:\Desenvolvimento\Projetos\Faculdade\RegExpression - Trabalho\RegExpression\obj\Debug\RegExpression.pdb

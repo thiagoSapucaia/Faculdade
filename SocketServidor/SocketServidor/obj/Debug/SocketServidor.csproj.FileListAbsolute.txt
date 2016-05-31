@@ -1,5 +1,8 @@
-c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe.config
-c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csprojResolveAssemblyReference.cache
-c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Form1.resources
-c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Properties.Resources.resources
-c:\users\aluno\documents\visual studio 2015\Projects\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.GenerateResource.Cache
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe.config
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\bin\Debug\SocketServidor.exe
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\bin\Debug\SocketServidor.pdb
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Form1.resources
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\obj\Debug\SocketServidor.Properties.Resources.resources
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\obj\Debug\SocketServidor.csproj.GenerateResource.Cache
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\obj\Debug\SocketServidor.exe
+Z:\Desenvolvimento\Projetos\Faculdade\SocketServidor\SocketServidor\obj\Debug\SocketServidor.pdb

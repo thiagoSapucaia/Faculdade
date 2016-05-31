@@ -12,7 +12,7 @@ namespace Sockets {
         public static string mensagem = "Em espera...";
         public static void EnviarArquivo(string nomeArquivo) {
             try {
-                string ip = "172.17.20.153";
+                string ip = "172.17.20.151";
                 IPEndPoint ipEnd = new IPEndPoint(IPAddress.Parse(ip), 5656);
                 Socket clientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
                 nomeArquivo = nomeArquivo.Replace('\\', '/');
